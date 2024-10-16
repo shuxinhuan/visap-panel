@@ -193,6 +193,14 @@ img {}
   margin: 0 auto;
 }
 
+.schedule {
+
+}
+
+.schedule-img {
+  width: 65%;
+}
+
 .footer {
   margin: 100px 0 50px;
   text-align: center;
