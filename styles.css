@@ -193,12 +193,14 @@ img {}
   margin: 0 auto;
 }
 
-.schedule {
-
-}
-
 .schedule-img {
   width: 65%;
+}
+
+@media (max-width: 1100px) {
+  .schedule-img {
+    width: 100%;
+  }
 }
 
 .footer {
